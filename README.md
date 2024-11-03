@@ -1,16 +1,23 @@
 # 🌐 Smart Contract Lottery Project
 ## 📝 Introduction
-โปรเจคนี้เป็นโปรเจคของ "1101213 Project in Blockchain and Cryptocurrency" 
+"This project is part of the "1101213 Project in Blockchain and Cryptocurrency."
 
+
+
+## 🌟 Tools and Languages
+- Remix - Ethereum IDE
+- Solidity
+- MetaMask
 
 
 ## ✨ Features
-- ซื้อ Lottery
-- สุ่มผู้ถูก Lottery
+- Purchase Lottery Tickets
+- Random Lottery Winner Selection
 
-## 📖 รายละเอียดเพิ่มเติม
 
-รายละเอียดเกี่ยวกับ Smart Contract Lottery ว่ามีช่องโหว่ หรือ แนวทางการแก้ไขเพิ่มเติมตรงไหนบ้าง
+## 📖 Additional Details
+
+Details about the Smart Contract Lottery, including potential vulnerabilities and suggestions for improvements:
 
    ```bash
       https://drive.google.com/file/d/1E4GYj9Px7F99yjJHN-aaG4do-63fbWew/view?usp=sharing  
