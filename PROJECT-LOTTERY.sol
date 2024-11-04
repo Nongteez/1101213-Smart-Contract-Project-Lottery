@@ -87,7 +87,7 @@ contract LotteryProject_GradeA_Nakub {
 
         address payable[] memory winners = new address payable[](3);            // อาร์เรย์เก็บ Address ของผู้ชนะ ทั้ง 3 คน
 
-        // for สำหรับ หาผู้ชนะ รางวัล ที่ 1- 3
+        // for สำหรับ หาผู้ชนะ รางวัล ที่ 1- 3.
         for (uint i = 0; i < 3; i++) {
             uint pickRandom = randomNumber();                   // เลขสุ่ม
             uint selectIndex = pickRandom % players.length;     // เลือก index จากการสุ่ม
